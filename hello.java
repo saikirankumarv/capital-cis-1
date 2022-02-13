@@ -2,6 +2,6 @@ class hell
 {
 	public static void main ()
 	{
-		System.out.println("hello cis");
+		System.out.println("hello sdcis");
 	}}
 
